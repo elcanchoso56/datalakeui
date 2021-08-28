@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-datalake-dev-170348-authRole",
+      "UnauthRoleArn": "arn:aws:iam::528723477741:role/amplify-datalake-dev-170348-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::528723477741:role/amplify-datalake-dev-170348-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-datalake-dev-170348-deployment",
+      "UnauthRoleName": "amplify-datalake-dev-170348-unauthRole",
+      "StackName": "amplify-datalake-dev-170348",
+      "StackId": "arn:aws:cloudformation:us-east-1:528723477741:stack/amplify-datalake-dev-170348/6c927fd0-0793-11ec-9469-12d7a78ee1f9",
+      "AmplifyAppId": "dnx3tp1lkgeu1"
+    }
+  }
+}
